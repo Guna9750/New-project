@@ -36,3 +36,13 @@ svg{
     height: 13.18px;
     color:#CDA274;
       }
+      @media(max-width:480px) {
+      body{
+            width: 480px;
+      }
+        @media (min-width:481px)and (max-width:770px) {
+            body{
+                width: 770px;
+            }
+        }
+      }
