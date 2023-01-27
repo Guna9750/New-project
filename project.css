@@ -1,0 +1,38 @@
+body
+{
+    background-color: #ffff;
+    text-align: center;
+}
+section{
+    display:inline-block;
+    }
+header
+{
+    text-align: center;
+    font-size:25px;
+   font-family: Serif;
+    font-style: normal;
+    color: #292F36;
+    height:31px;
+}
+p{
+    
+   font-family: Renner;
+    font-size: 22px;
+    line-height:33px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color:#4D5053;;
+}
+.rname{
+font-family:'Jost';
+font-weight: 600;
+font-size: 18px;
+   margin-left:90PX;
+}
+
+svg{
+    width: 15.14px;
+    height: 13.18px;
+    color:#CDA274;
+      }
