@@ -1,14 +1,14 @@
 body
 {
     background-color: #ffff;
-    text-align: center;
+    
 }
 
 h3
 {
     text-align: center;
     font-size:25px;
-   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-family:serif;
     font-style:bold;
     color: #292F36;
     height:31px;
@@ -16,7 +16,7 @@ h3
 p{
     
    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     line-height:33px;
     text-align: center;
     letter-spacing: 0.01em;
