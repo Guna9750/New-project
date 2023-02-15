@@ -2,8 +2,6 @@
     {
     background-color:#F4F0EC;
     margin-top: 1%;
-    height:auto;
-  
     min-width: 340px;
     border-radius: 35px;
     }
@@ -14,7 +12,7 @@
     font-family:'Times New Roman';
     padding-top: 8%;
     }
-#cont-1,#cont-2,#cont-3
+#contant-1,#contant-2,#contant-3
     {
     background-color:#FFFFFF;
     height: 290px;
@@ -23,7 +21,6 @@
     margin-top:3%;
     margin-bottom: 5%;
     border-radius: 25px;
-
     }
 img
     {
@@ -34,18 +31,17 @@ img
     margin-left: 2%;
     position: absolute;
     }
-.cont 
+.inner_contant
     {
-   
-    padding: 5.5%;
+    padding: 5%;
     padding-top:1%;
     font-size: 14px;
     line-height: 35px ;
     font-family: sans-serif;
     }
-.img-top{
-        padding-left: 35%;
-        padding-top: 6%;
-        font-size:16px;
-
-}
+.img-top
+    {
+    padding-left: 35%;  
+    padding-top: 6%;
+    font-size:16px;
+    }
