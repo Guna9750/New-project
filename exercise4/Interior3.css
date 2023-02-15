@@ -46,13 +46,7 @@ img
     font-size:16px;
     }
     /* HOVER */
-   /* #contant-1:hover,#contant-2:hover,#contant-3:hover 
-    {
-    color: #fd6d6d;   
-    background-color: black;
-    } */
-
-    /* online */
+  
     @media (min-width: 50px) 
 {
     #contant-1:hover,#contant-2:hover,#contant-3:hover
