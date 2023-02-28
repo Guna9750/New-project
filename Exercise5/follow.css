@@ -1,0 +1,60 @@
+.heading{
+    text-align: center;
+}
+body{
+    background-color:#FFFFFF;
+
+    }
+  
+article{ 
+    margin-top: 3%;
+        margin-left:5%;
+        padding-left: 10%; 
+              display:inline-block; 
+           
+     } 
+img{
+    width:350px;
+    height:300px;
+    
+}  
+h5{
+    font-family:  serif;
+    font-weight: bold;
+}
+p{
+    font-family:'Lucida Sans';
+}
+.img_kitchen1
+    {
+     
+        border-top-right-radius: 25%;
+       }  
+    .img_kitchen2
+    {
+      
+        border-top-left-radius: 25%;
+    }  
+    .img_kitchen3
+    {
+        
+        border-bottom-right-radius: 25%;
+    }  
+    .img_kitchen4
+    {
+        
+       
+        border-bottom-left-radius: 25%;
+    }  
+.describe{
+    text-align:center;
+    font-size:18px;
+    line-height:25px;
+}
+button{
+    border-radius: 50%;
+    font-weight: bold ;
+    margin-left: 80%;
+    margin-top: 1%;
+   
+}
