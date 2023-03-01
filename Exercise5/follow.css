@@ -6,15 +6,15 @@ body{
 
     }
   
-article{ 
+div{ 
     margin-top: 3%;
         margin-left:5%;
         padding-left: 10%; 
-              display:inline-block; 
+         display:inline-block; 
            
      } 
 img{
-    width:350px;
+    width:300px;
     height:300px;
     
 }  
@@ -24,6 +24,7 @@ h5{
 }
 p{
     font-family:'Lucida Sans';
+    padding-top:0.01em;;
 }
 .img_kitchen1
     {
@@ -54,7 +55,8 @@ p{
 button{
     border-radius: 50%;
     font-weight: bold ;
-    margin-left: 80%;
-    margin-top: 1%;
-   
-}
+    margin-left:65%;  
+   background-color: #F4F0EC;
+    position:relative;
+ 
+   }
