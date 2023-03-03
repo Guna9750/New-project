@@ -6,11 +6,12 @@ body{
 
     }
   
-div{ 
+.img_div{ 
     margin-top: 3%;
         margin-left:5%;
         padding-left: 10%; 
          display:inline-block; 
+        
            
      } 
 img{
@@ -22,7 +23,7 @@ h5{
     font-family:  serif;
     font-weight: bold;
 }
-p{
+.description{
     font-family:'Lucida Sans';
     padding-top:0.01em;;
 }
@@ -59,4 +60,53 @@ button{
    background-color: #F4F0EC;
     position:relative;
  
-   }
+}
+   .counter_col{
+    background-color: #F4F0EC;
+    color: #CDA274;
+    width: 75%;
+    height: 10%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    
+    }
+    .counter{
+        border-right: 2px solid black;
+        
+        display: inline-block;
+        margin-left:10%;
+        margin-top:2%;
+        margin-bottom:2%;
+       } 
+  
+.contact{
+background-color: black;
+border-radius: 10%;
+margin-left: 10%;
+margin-right: 10%;
+width: 1000px;
+height: 300px;
+        }
+    .contact_text{
+        color: #FFFFFF;
+        text-align: center;
+        padding-top: 5%;
+        font-size: 45px;
+    }
+    .cnt_text_dep
+    {
+    color: #FFFFFF;
+    text-align: center ;
+    }
+    #cnt_arrow{
+        color: black;
+        font-style: bold;
+        font: size 12px;;
+    }
+    .cnt_btn{
+        background-color:#CDA274;
+        border: 0px;
+        margin-top: 3%;
+        margin-left: 40%;
+        color: #FFFFFF;
+    }
