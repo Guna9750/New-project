@@ -110,3 +110,27 @@ height: 300px;
         margin-left: 40%;
         color: #FFFFFF;
     }
+    article{
+       float: left;
+        margin-left: 5%;
+    }
+    .footer_Address{
+        margin-top: 12%;
+       
+    }
+    .contact_interno{
+        margin-top: 2%;
+       
+        width: 22%;
+        text-align: center;
+    }
+    footer{
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    .service_part{
+        
+        height: 200px;
+        font-size: 14px;
+
+    }
